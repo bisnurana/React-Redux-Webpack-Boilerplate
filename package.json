@@ -1,0 +1,44 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "1.0.0",
+  "description": "React, redux, sass, webpack-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "author": "Bishnu Rana",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-polyfill": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-register": "*",
+    "cross-env": "*",
+    "css-loader": "*",
+    "expect": "*",
+    "node-libs-browser": "*",
+    "node-sass": "*",
+    "react": "*",
+    "react-addons-test-utils": "*",
+    "react-dom": "*",
+    "react-redux": "*",
+    "redux": "*",
+    "redux-logger": "*",
+    "redux-promise": "*",
+    "redux-thunk": "*",
+    "sass-loader": "*",
+    "style-loader": "*",
+    "webpack": "*",
+    "webpack-dev-middleware": "*",
+    "webpack-dev-server": "*",
+    "webpack-hot-middleware": "*"
+  },
+  "devDependencies": {
+    "babel-plugin-react-transform": "*",
+    "babel-preset-stage-0": "*",
+    "react-transform-hmr": "*"
+  }
+}
