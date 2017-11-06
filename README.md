@@ -8,7 +8,7 @@ Install all the necessary dependencies
 
 Run an initial webpack build
 ```
-> webpack
+>npm run webpack
 ```
 
 Start dev server
